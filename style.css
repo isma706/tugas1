@@ -1,0 +1,39 @@
+html {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#table1 {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#table1,
+th,
+td {
+  padding-left: 10px;
+  border: 1px solid #d3d3d3;
+}
+
+.container {
+  margin-top: 20px;
+  display: flex;
+}
+
+.container h4 {
+  font-style: italic;
+}
+
+.container img {
+  width: 50%;
+}
+
+.row {
+  margin-left: 7rem;
+  padding-top: 10%;
+}
+
+footer {
+  margin-top: 7rem;
+  text-align: center;
+}
